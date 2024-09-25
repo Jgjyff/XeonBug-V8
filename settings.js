@@ -17,8 +17,8 @@ global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
 global.ownernumber = '242069283966'  //creator number
-global.ownername = 'senju' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownername = 'senju hashirama' //owner name
+global.botname = 'hashiramaBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
